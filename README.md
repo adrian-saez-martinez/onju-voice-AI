@@ -1,4 +1,4 @@
-# Onju Voice 🍐🔈 (Modified Version)
+# Onju Voice
 This is a modified version of the **Onju Voice** project, originally created by **Justin Alvey**. Onju Voice is a hackable AI home assistant platform based on the **Google Nest Mini (2nd gen)** form factor. My goal is to create my own AI assistant by fine-tuning an open LLM from **Hugging Face**, with specific support for spanish and a customized speaker accent.
 
 ## Original project overview
@@ -13,7 +13,7 @@ I plan to:
 - Implement a Text-to-Speech (TTS) system that uses **Spanish voices with a customized accent**, ensuring the AI assistant sounds natural and localized for Spanish speakers.
 - Customize the transcription pipeline to handle **Spanish-language speech recognition** with Whisper or other open-source models.
 
-## 🍐 Credits
+## Credits
 The original **Onju Voice** project was created by **Justin Alvey**. This version is a modified one with additional features, such as spanish language support and fine-tuning of language models, planned for future implementation.
 
 ## Contributions and Feedback
